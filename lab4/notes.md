@@ -30,3 +30,14 @@ The four steps are edit or create a file, stage the changes with `git add`, comm
 ## Question 10
 `README.md` has a special name and is placed in the root of the repository because GitHub automatically displays it as the main introduction to the project. It gives visitors a quick overview of the project and its contents without them having to open another file.
 
+## Question 11
+`gh auth login` authenticated GitHub CLI with my GitHub account and saved the authentication credentials. This allows Git operations such as pushing to GitHub without asking me for my GitHub password each time.
+
+## Question 12
+The `README.md` file is shown on the repository's front page and is rendered as formatted text. GitHub automatically displays the root `README.md` as the introduction to the repository.
+
+## Question 13
+No, pushing did not change my local commit history. `git push` copies the existing commits from my local repository to GitHub; it does not create a new commit.
+
+## Question 14
+A private repository exists on GitHub but is only accessible to people who have been given permission, such as collaborators. If a repository does not exist on GitHub at all, there is no online repository or GitHub location for anyone to access.
